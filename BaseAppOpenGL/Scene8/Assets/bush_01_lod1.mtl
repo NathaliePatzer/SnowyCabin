@@ -1,0 +1,448 @@
+newmtl Material::bark_01_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.01 0.01 0.01
+Ni 1.5
+Ns 100
+Tf 1 1 1
+d 1
+map_Kd bark_01_c.tga
+map_bump bark_01_h.tga
+bump bark_01_h.tga
+
+newmtl Material::bark_02_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.01 0.01 0.01
+Ni 1.5
+Ns 100
+Tf 1 1 1
+d 1
+map_Kd bark_02_c.tga
+map_bump bark_02_h.tga
+bump bark_02_h.tga
+
+newmtl Material::branch_01_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ni 1.5
+Ns 100
+Tf 1 1 1
+d 0.5
+map_Kd branch_01_c.tga
+
+newmtl Material::leaves_05_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ni 1.5
+Ns 100
+Tf 1 1 1
+d 0.99
+map_Kd leaves_05_c.tga
+
+newmtl Material::bark_01_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.01 0.01 0.01
+Ni 1.5
+Ns 100
+Tf 1 1 1
+d 1
+map_Kd bark_01_c.tga
+map_bump bark_01_h.tga
+bump bark_01_h.tga
+
+newmtl Material::bark_02_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.01 0.01 0.01
+Ni 1.5
+Ns 100
+Tf 1 1 1
+d 1
+map_Kd bark_02_c.tga
+map_bump bark_02_h.tga
+bump bark_02_h.tga
+
+newmtl Material::branch_01_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ni 1.5
+Ns 100
+Tf 1 1 1
+d 0.5
+map_Kd branch_01_c.tga
+
+newmtl Material::leaves_05_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ni 1.5
+Ns 100
+Tf 1 1 1
+d 0.5
+map_Kd leaves_05_c.tga
+
+newmtl Material::branch_01_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ni 1.5
+Ns 100
+Tf 1 1 1
+d 0.99
+map_Kd branch_01_c.tga
+
+newmtl Material::branch_02_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ni 1.5
+Ns 100
+Tf 1 1 1
+d 0.99
+map_Kd branch_02_c.tga
+
+newmtl Material::leaves_05_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.01 0.01 0.01
+Ni 1.5
+Ns 100
+Tf 1 1 1
+d 0.99
+map_Kd leaves_05_c.tga
+
+newmtl Material::branch_01_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ni 1.5
+Ns 100
+Tf 1 1 1
+d 0.99
+map_Kd branch_01_c.tga
+
+newmtl Material::branch_02_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ni 1.5
+Ns 100
+Tf 1 1 1
+d 0.99
+map_Kd branch_02_c.tga
+
+newmtl Material::leaves_05_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.01 0.01 0.01
+Ni 1.5
+Ns 100
+Tf 1 1 1
+d 0.99
+map_Kd leaves_05_c.tga
+
+newmtl Material::farn_01_flower_02_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ni 1.5
+Ns 100
+Tf 1 1 1
+d 0.99
+map_Kd farn_01_flower_02_c.tga
+
+newmtl Material::farn_01_flower_02_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ni 1.5
+Ns 100
+Tf 1 1 1
+d 0.99
+map_Kd farn_01_flower_02_c.tga
+
+newmtl Material::farn_01_flower_02_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ni 1.5
+Ns 100
+Tf 1 1 1
+d 0.99
+map_Kd farn_01_flower_02_c.tga
+
+newmtl Material::farn_01_flower_02_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ni 1.5
+Ns 100
+Tf 1 1 1
+d 0.99
+map_Kd farn_01_flower_02_c.tga
+
+newmtl Material::flower_01_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.01 0.01 0.01
+Ni 1.5
+Ns 100
+Tf 1 1 1
+d 1
+map_Kd flower_01_c.tga
+
+newmtl Material::leaves_05_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ni 1.5
+Ns 100
+Tf 1 1 1
+d 0.99
+map_Kd leaves_05_c.tga
+
+newmtl Material::flower_01_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.01 0.01 0.01
+Ni 1.5
+Ns 100
+Tf 1 1 1
+d 1
+map_Kd flower_01_c.tga
+
+newmtl Material::leaves_05_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ni 1.5
+Ns 100
+Tf 1 1 1
+d 0.99
+map_Kd leaves_05_c.tga
+
+newmtl Material::farn_01_flower_02_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ni 1.5
+Ns 100
+Tf 1 1 1
+d 0.99
+map_Kd farn_01_flower_02_c.tga
+
+newmtl Material::leaves_05_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ni 1.5
+Ns 100
+Tf 1 1 1
+d 0.99
+map_Kd leaves_05_c.tga
+
+newmtl Material::farn_01_flower_02_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ni 1.5
+Ns 100
+Tf 1 1 1
+d 0.99
+map_Kd farn_01_flower_02_c.tga
+
+newmtl Material::leaves_05_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ni 1.5
+Ns 100
+Tf 1 1 1
+d 0.99
+map_Kd leaves_05_c.tga
+
+newmtl Material::grass_01_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ni 1.5
+Ns 100
+Tf 1 1 1
+d 0.99
+map_Kd grass_01_c.tga
+
+newmtl Material::grass_01_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ni 1.5
+Ns 100
+Tf 1 1 1
+d 0.99
+map_Kd grass_01_c.tga
+
+newmtl Material::grass_03_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ni 1.5
+Ns 100
+Tf 1 1 1
+d 0.99
+map_Kd grass_03_c.tga
+
+newmtl Material::grass_03_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ni 1.5
+Ns 100
+Tf 1 1 1
+d 0.99
+map_Kd grass_03_c.tga
+
+newmtl Material::grass_01_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ni 1.5
+Ns 100
+Tf 1 1 1
+d 0.99
+map_Kd grass_01_c.tga
+
+newmtl Material::grass_01_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ni 1.5
+Ns 100
+Tf 1 1 1
+d 0.99
+map_Kd grass_01_c.tga
+
+newmtl Material::leaves_03_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ni 1.5
+Ns 100
+Tf 1 1 1
+d 0.99
+map_Kd leaves_03_c.tga
+
+newmtl Material::leaves_05_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ni 1.5
+Ns 100
+Tf 1 1 1
+d 0.99
+map_Kd leaves_05_c.tga
+
+newmtl Material::leaves_03_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ni 1.5
+Ns 100
+Tf 1 1 1
+d 0.99
+map_Kd leaves_03_c.tga
+
+newmtl Material::leaves_05_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ni 1.5
+Ns 100
+Tf 1 1 1
+d 0.99
+map_Kd leaves_05_c.tga
+
+newmtl Material::leaves_05_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ni 1.5
+Ns 100
+Tf 1 1 1
+d 0.99
+map_Kd leaves_05_c.tga
+
+newmtl Material::leaves_05_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ni 1.5
+Ns 100
+Tf 1 1 1
+d 0.99
+map_Kd leaves_05_c.tga
+
+newmtl Material::leaves_05_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ni 1.5
+Ns 100
+Tf 1 1 1
+d 0.99
+map_Kd leaves_05_c.tga
+
+newmtl Material::leaves_05_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ni 1.5
+Ns 100
+Tf 1 1 1
+d 0.99
+map_Kd leaves_05_c.tga
+
+newmtl Material::leaves_05_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ni 1.5
+Ns 100
+Tf 1 1 1
+d 0.99
+map_Kd leaves_05_c.tga
+
+newmtl Material::leaves_05_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ni 1.5
+Ns 100
+Tf 1 1 1
+d 0.99
+map_Kd leaves_05_c.tga
+
+newmtl Material::leaves_05_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ni 1.5
+Ns 100
+Tf 1 1 1
+d 0.99
+map_Kd leaves_05_c.tga
+
+newmtl Material::leaves_05_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ni 1.5
+Ns 100
+Tf 1 1 1
+d 0.99
+map_Kd leaves_05_c.tga
+
