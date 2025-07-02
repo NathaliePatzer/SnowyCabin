@@ -17,7 +17,7 @@ A intenção foi recriar um ambiente carregado de emoção, usando técnicas ava
 
 - **OpenGL e (C++)** 🖥️  
 - **Biblioteca Assimp** para carregamento de modelos 3D 📦  
-- **Visual Studio** para screver e organizar o código-fonte 💡  
+- **Visual Studio** para escrever e organizar o código-fonte 💡  
 - **Sistema de partículas customizado** ❄️  
 
 ## Como usar 🚀
