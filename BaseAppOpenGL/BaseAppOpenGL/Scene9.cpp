@@ -347,7 +347,7 @@ int CScene9::DrawGLScene(void)	// Função que desenha a cena
 	//Draw3DSGrid(20.0f, 20.0f);
 
 	// Desenha os eixos do sistema cartesiano
-	DrawAxis();
+	//DrawAxis();
 
 	// Modo FILL ou WIREFRAME (pressione barra de espaço)	
 	if (bIsWireframe)
